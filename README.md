@@ -486,9 +486,8 @@ contact.html
 
 ![Screenshot (335)](https://github.com/Tharun-1000/Pharma/assets/135952958/fbe5bc4b-13da-46f1-abb3-bc4a716a74e0)
 
-![Screenshot (335)](https://github.com/Tharun-1000/Pharma/assets/135952958/c92c10fb-0ad5-4474-ac34-3cd56b31a065)
+![Screenshot (340)](https://github.com/Tharun-1000/Pharma/assets/135952958/729e459c-b5f6-4ff6-bfc7-1a4c295a525b)
 
-![Screenshot (340)](https://github.com/Tharun-1000/Pharma/assets/135952958/40a62f05-bbcd-4761-8dc8-931242485bca)
 
 ![330298920-3782e4af-6159-4d4d-b57a-a8e67141d81b](https://github.com/Tharun-1000/Pharma/assets/135952958/5e497f47-a686-4d97-accd-c5860a35fbad)
 
