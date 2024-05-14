@@ -481,14 +481,17 @@ contact.html
 
 ## OUTPUT:
 
-![Screenshot (340)](https://github.com/Tharun-1000/Pharma/assets/135952958/40a62f05-bbcd-4761-8dc8-931242485bca)
+
+
 
 ![Screenshot (335)](https://github.com/Tharun-1000/Pharma/assets/135952958/202f8265-d442-4188-98dd-0e664ce549da)
 
-![330298988-33b20cf0-160d-4193-8ecf-4feac98a8eed](https://github.com/Tharun-1000/Pharma/assets/135952958/c18ea865-8662-41ff-94c8-be314153eaf0)
-
+![Screenshot (340)](https://github.com/Tharun-1000/Pharma/assets/135952958/40a62f05-bbcd-4761-8dc8-931242485bca)
 
 ![330298920-3782e4af-6159-4d4d-b57a-a8e67141d81b](https://github.com/Tharun-1000/Pharma/assets/135952958/5e497f47-a686-4d97-accd-c5860a35fbad)
+
+![330298988-33b20cf0-160d-4193-8ecf-4feac98a8eed](https://github.com/Tharun-1000/Pharma/assets/135952958/c18ea865-8662-41ff-94c8-be314153eaf0)
+
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
