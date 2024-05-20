@@ -110,7 +110,7 @@ web.html
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Home - PharMAZY</title>
+  <title>Home - Pharma</title>
   <!-- Bootstrap CSS -->
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 </head>
@@ -118,7 +118,7 @@ web.html
 
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-    <a class="navbar-brand" href="#">PharMAZY</a>
+    <a class="navbar-brand" href="#">Pharma</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -156,18 +156,18 @@ web.html
   <div class="container mt-5">
     <div class="row">
       <div class="col-md-8">
-        <h1>Welcome to PharMAZY</h1>
-        <p>Welcome to PharMAZY, where we embark on a journey to redefine healthcare beyond conventional boundaries. Our unwavering mission is to pioneer safe, effective, and accessible healthcare solutions, extending healing hands to every corner of the globe.</p>
-<p>In the realm of PharMAZY, innovation isn't just a goal; it's our heartbeat. With a relentless pursuit of breakthroughs and a steadfast commitment to quality, we stand at the forefront of medical evolution. Each creation that emerges from our laboratories is not just a product; it's a testament to our dedication to excellence.</p>
-<p>Here at PharMAZY, our impact stretches far beyond medications. We are architects of hope, architects of life. Beyond the pills and prescriptions, we engineer vaccines, sculpt medical devices, and weave dreams of healthier tomorrows.</p>
+        <h1>Welcome to Pharma</h1>
+        <p>Welcome to Pharma, where we embark on a journey to redefine healthcare beyond conventional boundaries. Our unwavering mission is to pioneer safe, effective, and accessible healthcare solutions, extending healing hands to every corner of the globe.</p>
+<p>In the realm of Pharma, innovation isn't just a goal; it's our heartbeat. With a relentless pursuit of breakthroughs and a steadfast commitment to quality, we stand at the forefront of medical evolution. Each creation that emerges from our laboratories is not just a product; it's a testament to our dedication to excellence.</p>
+<p>Here at Pharma, our impact stretches far beyond medications. We are architects of hope, architects of life. Beyond the pills and prescriptions, we engineer vaccines, sculpt medical devices, and weave dreams of healthier tomorrows.</p>
 <p>Thank you for entrusting PharMAZY with your well-being. Together, let's script a narrative of vitality, resilience, and boundless possibilities. Welcome to a world where healthcare isn't just a service; it's a symphony of healing.</p>
       </div>
       <div class="col-md-4">
-        <img src="pharma logo.png" class="img-fluid" alt="PharmacyImage">
+        <img src="symbol doctor.png" class="img-fluid" alt="PharmacyImage">
       </div>
     </div>
   </div>
-  <body background="TABLETS.webp" style="background-repeat: no-repeat; background-size: cover;">
+  <body background="tablet.jpeg" style="background-repeat: no-repeat; background-size: cover;">
   <br>
   <br>
   <br>
@@ -175,7 +175,7 @@ web.html
 
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-4 mt-5">
-    <p>&copy; 2024 PharMAZY. All rights reserved. BY THARUN K(212222040172)</p>
+    <p>&copy;  All rights reserved. BY THARUN K(212222040172)</p>
   </footer>
 
   <!-- Bootstrap JS -->
@@ -184,7 +184,6 @@ web.html
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
-
 about.html
 
 <!DOCTYPE html>
@@ -192,7 +191,7 @@ about.html
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>About PharMAZY</title>
+  <title>About Pharma</title>
   <!-- Bootstrap CSS -->
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 </head>
@@ -200,7 +199,7 @@ about.html
 
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-    <a class="navbar-brand" href="#">PharMAZY</a>
+    <a class="navbar-brand" href="#">Pharma</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -227,10 +226,10 @@ about.html
   <div class="container mt-5">
     <div class="row">
       <div class="col-md-12">
-        <h1>Welcome to PharMAZY</h1>
+        <h1>Welcome to Pharma</h1>
         <div id="vision">
           <h2>Our Vision</h2>
-          <p>At PharMAZY, we envision leading the pharmaceutical landscape in India and beyond, pioneering transformative solutions that are not only high-quality and affordable but also innovative, redefining standards in medicine and treatment worldwide.</p>
+          <p>At Pharma, we envision leading the pharmaceutical landscape in India and beyond, pioneering transformative solutions that are not only high-quality and affordable but also innovative, redefining standards in medicine and treatment worldwide.</p>
         </div>
         <div id="mission">
           <h2>Our GOALS</h2>
@@ -259,10 +258,10 @@ about.html
       </div>
     </div>
   </div>
-  <body background="phramabg.jpeg" style="background-repeat: no-repeat; background-size: cover;"></body>
+  <body background="bg.jpg" style="background-repeat: no-repeat; background-size: cover;"></body>
   
   <footer class="bg-dark text-white text-center py-4 mt-3">
-    <p>&copy; 2024 PharMAZY. All rights reserved.  BY THARUN K(212222040172)</p>
+    <p>&copy; 2024 Pharma. All rights reserved.  BY THARUN K(212222040172)</p>
   </footer>
 
   <!-- Bootstrap JS -->
@@ -279,7 +278,7 @@ product.html
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Products - PharMAZY</title>
+  <title>Products - Pharma</title>
   <!-- Bootstrap CSS -->
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 </head>
@@ -287,7 +286,7 @@ product.html
 
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-    <a class="navbar-brand" href="#">PharMAZY</a>
+    <a class="navbar-brand" href="#">Pharma</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -304,10 +303,10 @@ product.html
             Products
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="#">Himalaya Diabecon</a>
-            <a class="dropdown-item" href="#">Iodex Ultra Gel</a>
-            <a class="dropdown-item" href="#">Vaccines</a>
-            <a class="dropdown-item" href="#">DETTOL</a>
+            <a class="dropdown-item" href="#">supliment</a>
+            <a class="dropdown-item" href="#">tablet</a>
+            <a class="dropdown-item" href="#">Vaxin</a>
+            <a class="dropdown-item" href="#">first aid</a>
           </div>
         </li>
         <li class="nav-item active">
@@ -332,34 +331,34 @@ product.html
         <h1>Explore Our Product Categories</h1>
         <div class="card-deck">
           <div class="card">
-            <img src="HIMALAYANDICOBEN.jpeg" class="card-img-top" alt="Product 1" width="200" height="200">
+            <img src="supliment.jpeg" class="card-img-top" alt="Product 1" width="200" height="200">
             <div class="card-body">
-              <h5 class="card-title">Himalaya Diabecon</h5>
-              <p class="card-text">Himalaya Diabecon tablets are an Ayurvedic proprietary medicine that is carefully designed with a blend of herbs known for their anti-diabetic properties.</p>
+              <h5 class="card-title">supliment</h5>
+              <p class="card-text">supliments Dietary supplements are vitamins, minerals, herbs, and many other products. They can come as pills, capsules, powders, drinks, and energy bars. Supplements do not have to go through the testing that drugs do. Some supplements can play an important role in health..</p>
               <a href="#" class="btn btn-primary">Explore Now</a>
             </div>
           </div>
           <div class="card">
-            <img src="iodexultragel.jpeg" class="card-img-top" alt="Product 2" width="200" height="200">
+            <img src="tablet.jpeg" class="card-img-top" alt="Product 2" width="200" height="200">
             <div class="card-body">
-              <h5 class="card-title">Iodex Ultra Gel</h5>
-              <p class="card-text">Iodex Ultra Gel is a new and improved formula for faster pain relief. The gel penetrates deeper into the muscles and helps relax the body pain.</p>
+              <h5 class="card-title">tablet</h5>
+              <p class="card-text">tablet is a new and improved formula for faster pain relief. The tablet penetrates deeper into the muscles and helps relax the body pain.</p>
               <a href="#" class="btn btn-primary">Explore Now</a>
             </div>
           </div>
           <div class="card">
-            <img src="vaccine.jpeg" class="card-img-top" alt="Product 2" width="200" height="200">
+            <img src="vaxin.jpeg" class="card-img-top" alt="Product 2" width="200" height="200">
             <div class="card-body">
-              <h5 class="card-title">Vaccines</h5>
+              <h5 class="card-title">Vaxin</h5>
               <p class="card-text">Discover our lineup of vaccines, meticulously developed to provide active acquired immunity against various infectious or malignant diseases, safeguarding your health and well-being.</p>
               <a href="#" class="btn btn-primary">Explore Now</a>
             </div>
           </div>
           <div class="card">
-            <img src="dettol.jpeg" class="card-img-top" alt="Product 3" width="200" height="200">
+            <img src="first aid.jpeg" class="card-img-top" alt="Product 3" width="200" height="200">
             <div class="card-body">
-              <h5 class="card-title">DETTOL</h5>
-              <p class="card-text">Dettol Antiseptic Liquid - Kills Germs and Bacteria for First Aid and Household Use - 200ml.</p>
+              <h5 class="card-title">first aid</h5>
+              <p class="card-text">firsr aid- Kills Germs and Bacteria for First Aid and Household Use - 200ml.</p>
               <a href="#" class="btn btn-primary">Explore Now</a>
             </div>
           </div>
@@ -371,9 +370,9 @@ product.html
 
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-4 mt-5">
-    <p>&copy; 2024 PharMAZY. All rights reserved. THARUN K(212222040172)@2024</p>
+    <p>&copy; 2024 Pharma. All rights reserved. THARUN K(212222040172)@2024</p>
   </footer>
-  <body background="phramabg.jpeg" style="background-repeat: no-repeat; background-size: cover;"></body>
+  <body background="bg 2.jpeg" style="background-repeat: no-repeat; background-size: cover;"></body>
 
 
 
@@ -383,7 +382,6 @@ product.html
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
-
 contact.html
 
 <!DOCTYPE html>
@@ -391,7 +389,7 @@ contact.html
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Contact Us - PharMAZY</title>
+  <title>Contact Us - Pharma</title>
   <!-- Bootstrap CSS -->
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 </head>
@@ -400,7 +398,7 @@ contact.html
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
     <a class="navbar-brand" href="#">
-      <img src="background.jpg" width="30" height="30" class="d-inline-block align-top" alt="">
+      <img src="bg 1.jpeg" width="30" height="30" class="d-inline-block align-top" alt="">
       PharmaCure
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -467,7 +465,7 @@ contact.html
 
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-4 mt-2">
-    <p>&copy; 2024 PharMAZY. All rights reserved. BY THARUN K(212222040172)</p>
+    <p>&copy; 2024 Pharma. All rights reserved. BY THARUN K(212222040172)</p>
   </footer>
 
   <!-- Bootstrap JS -->
@@ -481,18 +479,14 @@ contact.html
 
 ## OUTPUT:
 
+![Screenshot (20)](https://github.com/Tharun-1000/Pharma/assets/135952958/489ca2ad-a7b3-4a45-9530-e8b1e469c2ae)
 
+![Screenshot (21)](https://github.com/Tharun-1000/Pharma/assets/135952958/d364f619-bfbe-4313-95f3-53eb58a5a697)
 
+![Screenshot (22)](https://github.com/Tharun-1000/Pharma/assets/135952958/44dc2c7e-6182-4ad9-98e0-daf51b4d2c62)
 
-![Screenshot (335)](https://github.com/Tharun-1000/Pharma/assets/135952958/fbe5bc4b-13da-46f1-abb3-bc4a716a74e0)
+![Screenshot (23)](https://github.com/Tharun-1000/Pharma/assets/135952958/e7013e97-114e-4857-9ba7-82b5de780be2)
 
-
-![Screenshot (340)](https://github.com/Tharun-1000/Pharma/assets/135952958/729e459c-b5f6-4ff6-bfc7-1a4c295a525b)
-
-
-![330298920-3782e4af-6159-4d4d-b57a-a8e67141d81b](https://github.com/Tharun-1000/Pharma/assets/135952958/5e497f47-a686-4d97-accd-c5860a35fbad)
-
-![330298988-33b20cf0-160d-4193-8ecf-4feac98a8eed](https://github.com/Tharun-1000/Pharma/assets/135952958/c18ea865-8662-41ff-94c8-be314153eaf0)
 
 
 ## RESULT:
